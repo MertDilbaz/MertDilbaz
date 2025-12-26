@@ -1,16 +1,20 @@
-## Hi there 👋
+# Merhaba, ben Mert Dilbaz! 👋
 
-<!--
-**MertDilbaz/MertDilbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sivas Cumhuriyet Üniversitesi'nde Bilgisayar Mühendisliği son sınıf öğrencisiyim. Java ve Spring Boot ekosistemine bağlı, güvenli ve performanslı backend sistemleri geliştirmeye odaklanmış bir geliştirici adayıyım.
 
-Here are some ideas to get you started:
+### ✨ Nelerle İlgileniyorum?
+- 🏗️ **Backend Geliştirme:** RESTful API tasarımı ve Mikroservis mimarileri üzerine çalışıyorum.
+- 🔐 **Güvenlik:** Spring Security 6 ve JWT tabanlı yetkilendirme süreçlerine ilgi duyuyorum.
+- 💾 **Veritabanı:** İlişkisel veritabanı yönetimi ve sorgu optimizasyonu (MySQL, Hibernate) üzerine tecrübe sahibiyim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Teknolojilerim
+- **Diller:** Java, SQL, JavaScript
+- **Frameworkler:** Spring Boot, Spring Security, Spring Data JPA, React
+- **Araçlar:** Git, Docker (Öğrenme aşamasında), Axios, Maven
+
+### 💼 Deneyim & Projeler
+- **EYOSOFT (Stajyer):** Kurumsal Java ekosisteminde Agile süreçlere dahil olarak REST API uç noktaları tasarladım.
+- **GetAJob:** Backend'i Java 17, Frontend'i React ile geliştirilen, JWT güvenliği barındıran tam kapsamlı iş platformu projem.
+
+### 📫 İletişim
+Profilimi incelediğiniz için teşekkürler! Sorularınız veya iş birliği için bana [LinkedIn](https://www.linkedin.com/in/mert-dilbaz-475033252/) üzerinden veya **mertdilbaz202@gmail.com** adresinden ulaşabilirsiniz.
