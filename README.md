@@ -1,6 +1,6 @@
 # Merhaba, ben Mert Dilbaz! 👋
 
-23 yaşında, Sivas Cumhuriyet Üniversitesi'nde Bilgisayar Mühendisliği son sınıf öğrencisiyim. Java ve Spring Boot ekosistemine bağlı, güvenli ve performanslı backend sistemleri geliştirmeye odaklanmış bir geliştirici adayıyım.
+23 yaşında, Sivas Cumhuriyet Üniversitesi'nde Bilgisayar Mühendisliği son sınıf öğrencisiyim. Java ve Spring Boot ekosistemine bağlı, güvenli ve performanslı backend sistemleri geliştirmeye odaklanmış bir geliştiricisiyim.
 
 ### ✨ Nelerle İlgileniyorum?
 - 🏗️ **Backend Geliştirme:** RESTful API tasarımı ve Mikroservis mimarileri üzerine çalışıyorum.
