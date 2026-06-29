@@ -1,53 +1,53 @@
-# Merhaba, ben Mert Dilbaz! 👋
+# Hi, I'm Mert Dilbaz 👋
 
-23 yaşında, Sivas Cumhuriyet Üniversitesi'nde Bilgisayar Mühendisliği son sınıf öğrencisiyim. Java ve Spring Boot ekosistemine bağlı, güvenli ve performanslı backend sistemleri geliştirmeye odaklanmış bir geliştiricisiyim.
+I am a Computer Engineering student focused on backend development, full-stack web applications, internal tools, automation, and data-driven systems. I mainly work with Java, Spring Boot, SQL, React, JavaScript, and Git.
 
-### ✨ Nelerle İlgileniyorum?
-- 🏗️ **Backend Geliştirme:** RESTful API tasarımı ve Mikroservis mimarileri üzerine çalışıyorum.
-- 🔐 **Güvenlik:** Spring Security 6 ve JWT tabanlı yetkilendirme süreçlerine ilgi duyuyorum.
-- 💾 **Veritabanı:** İlişkisel veritabanı yönetimi ve sorgu optimizasyonu (MySQL, Hibernate) üzerine tecrübe sahibiyim.
+I enjoy building maintainable software, designing clean backend APIs, working with relational databases, and using AI-assisted development tools to improve my workflow.
 
-### 🛠️ Teknolojilerim
-- **Diller:** Java, SQL, JavaScript
-- **Frameworkler:** Spring Boot, Spring Security, Spring Data JPA, React
-- **Araçlar:** Git, Docker (Öğrenme aşamasında), Axios, Maven
+## 🚀 Focus Areas
 
-### 💼 Deneyim & Projeler
-- **EYOSOFT (Stajyer):** Kurumsal Java ekosisteminde Agile süreçlere dahil olarak REST API uç noktaları tasarladım.
-- **GetAJob:** Backend'i Java 17, Frontend'i React ile geliştirilen, JWT güvenliği barındıran tam kapsamlı iş platformu projem.
+* Backend Development with Java & Spring Boot
+* RESTful API Design and Authentication Systems
+* Full-Stack Web Development with React
+* Relational Databases and Data Modeling
+* Internal Tools, Automation, and Technical Documentation
+* Data-Driven Game Systems and Architecture
 
-### 📫 İletişim
-Profilimi incelediğiniz için teşekkürler! Sorularınız veya iş birliği için bana [LinkedIn](https://www.linkedin.com/in/mert-dilbaz-475033252/) üzerinden veya **mertdilbaz202@gmail.com** adresinden ulaşabilirsiniz.
+## 🛠️ Tech Stack
 
------
-ENG
------
+**Languages:** Java, SQL, JavaScript, C#
+**Backend:** Spring Boot, Spring Security 6, Spring Data JPA, Hibernate
+**Frontend:** React, Axios, HTML, CSS
+**Databases:** MySQL, H2 Database
+**Tools:** Git, GitHub, Maven, Postman, AI-assisted coding tools
+**Game Development:** Godot 4, C#, data-driven architecture, save systems, inventory systems, procedural systems
 
-Hello, I'm Mert Dilbaz! 👋
+Learning & Exploring: Python for automation and data-focused tasks, Docker
 
-I am a 23-year-old senior Computer Engineering student at Sivas Cumhuriyet University. I am a developer focused on building secure and high-performance backend systems within the Java and Spring Boot ecosystem.
-✨ What I Do
+## 💼 Experience
 
-    🏗️ Backend Development: I work on RESTful API design and Microservice architectures.
+**Software Engineering Intern – EYOSOFT (5 months)**
+Participated in REST API design, microservice component planning, Agile development processes, daily stand-up meetings, and team-based code review activities within a Java-based enterprise environment.
 
-    🔐 Security: I am interested in Spring Security 6 and JWT-based authorization processes.
+## 📌 Featured Projects
 
-    💾 Database: I have experience in relational database management and query optimization (MySQL, Hibernate).
+### Exiletide – Data-Driven Survival Sandbox Game
 
-🛠️ Tech Stack
+A 2.5D survival sandbox game developed in Godot 4 using C#.
+The project focuses on service-oriented architecture, data-driven gameplay systems, save/load workflows, inventory, crafting, minimap, and deterministic world generation.
 
-    Languages: Java, SQL, JavaScript
+### Manul Sentinel – Personal Job & Information Assistant
 
-    Frameworks: Spring Boot, Spring Security, Spring Data JPA, React
+A Telegram-based assistant project designed to monitor selected sources, filter job/program listings by keywords, and send useful notifications.
+The project focuses on automation, scheduled checks, source tracking, filtering logic, and practical assistant workflows.
 
-    Tools: Git, Docker (Currently learning), Axios, Maven
+### GetAJob – Job Seeker & Employer Platform
 
-💼 Experience & Projects
+A full-stack school project developed with Java 17, Spring Boot, Spring Security 6, JWT-based authentication, React, Axios, and H2 Database.
+The project includes authentication, authorization, RESTful APIs, frontend-backend integration, and relational data management.
 
-    EYOSOFT (Intern): I designed REST API endpoints while participating in Agile processes within the enterprise Java ecosystem.
+## 📫 Contact
 
-    GetAJob: My comprehensive job platform project featuring JWT security, developed with Java 17 for the backend and React for the frontend.
-
-📫 Contact
-
-Thanks for checking out my profile! For questions or collaboration opportunities, you can reach me via LinkedIn or at mertdilbaz202@gmail.com.
+* LinkedIn: [linkedin.com/in/mert-dilbaz-475033252](https://www.linkedin.com/in/mert-dilbaz-475033252/)
+* GitHub: [github.com/MertDilbaz](https://github.com/MertDilbaz)
+* Email: **[mertdilbaz202@gmail.com](mailto:mertdilbaz202@gmail.com)**
