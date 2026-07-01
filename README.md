@@ -1,4 +1,4 @@
-# Hi, I'm Mert Dilbaz 👋
+# Hi, I'm Mert Dilbaz 👋 My Personal website: mertdilbaz.com
 
 I am a Computer Engineering student focused on backend development, full-stack web applications, internal tools, automation, and data-driven systems. I mainly work with Java, Spring Boot, SQL, React, JavaScript, and Git.
 
